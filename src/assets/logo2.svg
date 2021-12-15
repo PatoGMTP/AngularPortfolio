@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="Layer_1"
+   data-name="Layer 1"
+   viewBox="0 0 240 240"
+   version="1.1"
+   sodipodi:docname="logo2.svg"
+   width="240"
+   height="240"
+   inkscape:version="1.1.1 (c3084ef, 2021-09-22)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <sodipodi:namedview
+     id="namedview1541"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     width="320px"
+     inkscape:zoom="1.43"
+     inkscape:cx="205.94406"
+     inkscape:cy="200"
+     inkscape:window-width="1296"
+     inkscape:window-height="800"
+     inkscape:window-x="0"
+     inkscape:window-y="23"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="Layer_1" />
+  <defs
+     id="defs1524">
+    <style
+       id="style1522">.cls-1{fill:#c8102e;}.cls-2{fill:#fff;}</style>
+  </defs>
+  <title
+     id="title1526">Interlocking UH Red 2</title>
+  <polygon
+     class="cls-1"
+     points="207.74,167.67 167.14,167.67 167.14,139.01 178.22,139.01 178.22,100 104.85,100 104.85,139.01 116.72,139.01 116.72,210.24 139.55,229.89 162.63,229.89 162.63,261 150.76,261 150.76,300 224.13,300 224.13,261 213.06,261 213.06,253.81 252.85,253.81 252.85,261 241.78,261 241.78,300 315.15,300 315.15,261 303.28,261 303.28,206.69 315.15,206.69 315.15,167.67 258.17,167.67 258.17,139.01 270.04,139.01 270.04,100 196.67,100 196.67,139.01 207.74,139.01 "
+     id="polygon1528"
+     transform="translate(-97.902098,-93.006993)" />
+  <path
+     class="cls-2"
+     d="M 211.6979,108.13301 V 80.213007 h -57 v -39.76 h 11.86 v -27.91 h -62.24 v 27.91 h 11.07 v 39.76 H 63.687902 v -39.76 h 11.08 v -27.91 h -62.27 v 27.91 h 11.87 v 74.230003 l 19.34,16.64 h 26.57 v 42.23 h -11.87 v 27.89 H 120.6779 v -27.89 h -11.08 v -18.29 h 50.9 v 18.29 h -11.06 v 27.89 h 62.26 v -27.89 h -11.87 v -65.42 z m -68.89,17.56 17.34,-15.38 v 15.38 z"
+     id="path1530" />
+  <polygon
+     class="cls-1"
+     points="207.5,128.19 218.57,128.19 218.57,201.13 207.5,201.13 207.5,219.06 231.82,219.06 247.34,205.27 247.34,128.19 259.21,128.19 259.21,110.82 207.5,110.82 "
+     id="polygon1532"
+     transform="translate(-97.902098,-93.006993)" />
+  <polygon
+     class="cls-1"
+     points="143.56,219.06 168.19,219.06 168.19,201.13 156.32,201.13 156.32,128.19 167.39,128.19 167.39,110.82 115.68,110.82 115.68,128.19 127.55,128.19 127.55,205.27 "
+     id="polygon1534"
+     transform="translate(-97.902098,-93.006993)" />
+  <polygon
+     class="cls-1"
+     points="213.31,178.5 161.59,178.5 161.59,195.87 173.46,195.87 173.46,271.83 161.59,271.83 161.59,289.18 213.31,289.18 213.31,271.83 202.23,271.83 202.23,242.99 263.68,242.99 263.68,271.83 252.61,271.83 252.61,289.18 304.32,289.18 304.32,271.83 292.46,271.83 292.46,195.87 304.32,195.87 304.32,178.5 252.61,178.5 252.61,195.87 263.68,195.87 263.68,224.33 202.23,224.33 202.23,195.87 213.31,195.87 "
+     id="polygon1536"
+     transform="translate(-97.902098,-93.006993)" />
+  <path
+     class="cls-1"
+     d="m 224.4359,200.69301 v -0.034 a 6.3380242,6.3380242 0 0 1 12.676,-0.035 v 0.035 a 6.3380228,6.3380228 0 0 1 -12.676,0.034 z m 11.292,-0.034 v -0.031 a 4.955,4.955 0 1 0 -9.909,0.031 v 0.03 a 4.955,4.955 0 1 0 9.909,-0.03 z m -7.417,-3.128 h 2.771 a 2.739,2.739 0 0 1 2.016,0.662 1.821,1.821 0 0 1 0.511,1.356 v 0.031 a 1.859,1.859 0 0 1 -1.223,1.817 l 1.425,2.064 h -1.906 l -1.208,-1.8 h -0.727 v 1.8 h -1.657 z m 2.741,2.85 c 0.573,0 0.9,-0.262 0.9,-0.693 v -0.032 c 0,-0.476 -0.355,-0.707 -0.914,-0.707 h -1.07 v 1.432 z"
+     id="path1538" />
+  <metadata
+     id="metadata1543">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:title>Interlocking UH Red 2</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+</svg>
